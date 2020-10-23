@@ -1,4 +1,4 @@
-[Prever a intensão de compra de um cliente em um E-commerce](https://nbviewer.jupyter.org/github/JacqMenin/Prever-intensao-de-compra-de-ecommerce/blob/master/Previsao-Intensao-Compra-Ecommerce.ipynb)
+# [Prever a intensão de compra de um cliente em um E-commerce](https://nbviewer.jupyter.org/github/JacqMenin/Prever-intensao-de-compra-de-ecommerce/blob/master/Previsao-Intensao-Compra-Ecommerce.ipynb)
 
 O objetivo deste projeto é: descobrir quais atributos influenciam um usuário na compra de produtos on-line para, assim, prever quando uma sessão resultará em uma venda.
 
